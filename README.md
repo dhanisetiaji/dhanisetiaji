@@ -19,7 +19,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-- 📫 How to reach me: [Click Me](https://instagram.com/dhanisetiajiii)
+- 📫 How to reach me: [Click Me](https://dhanisetiaji.me)
 
 <!--
 **DitoCahyaPratama/dhanisetiaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
