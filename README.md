@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, i'm Dhani Setiaji <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=dhanisetiaji&show_icons=true&theme=random)
-
-- 🌱 I’m currently learning Javascript and GraphQL
+- 🌱 I’m currently learning Javascript(React/Nextjs,express) and GraphQL
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -19,19 +17,15 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-- 📫 How to reach me: [Click Me](https://dhanisetiaji.me)
+- 📫 How to reach me: [Click Me](mailto:dhanisetiaji99@gmail.com)
 
-<!--
-**DitoCahyaPratama/dhanisetiaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ~
+- 🌱 I’m currently learning Fullstack Javascript
+- 💬 Ask me about code
+- 📫 How to reach me: dhanisetiaji99@gmail.com
+- ⚡ Fun fact: im a eccedentesiast
+
