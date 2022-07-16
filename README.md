@@ -1,6 +1,6 @@
 ### Hi there, i'm Dhani Setiaji <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 🌱 I’m currently learning Javascript(React/Nextjs,express) and GraphQL
+- 🌱 I’m currently learning Javascript(ReactJS/Nextjs,ReactNative,Express) and GraphQL
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Fullstack Javascript
 - 💬 Ask me about code
 - 📫 How to reach me: dhanisetiaji99@gmail.com
-- ⚡ Fun fact: im a eccedentesiast
-
+- ⚡ Fun fact: ~
