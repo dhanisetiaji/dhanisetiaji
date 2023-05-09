@@ -1,6 +1,6 @@
 ### Hi there, i'm Dhani Setiaji <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 🌱 I’m currently learning Javascript(Nextjs,ReactNative),Go-Lang and GraphQL
+- 🌱 I’m currently learning Go-Lang
 
 ⚡ Here are some ideas to get you started:
 
